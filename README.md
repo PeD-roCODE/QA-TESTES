@@ -31,4 +31,4 @@ describe('template spec', () => {
 
     cy.get('#submit') // Finaliza apertando o botão de envio
   })
-})
+}) 
